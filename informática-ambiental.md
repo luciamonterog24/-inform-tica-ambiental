@@ -235,14 +235,14 @@ El manejo inadecuado de baterías y metales tóxicos genera riesgos adicionales.
 
 
 
-Guía de cumplimiento RoHS: RoHSGuide.com
-https://es.wikipedia.org/wiki/Reciclaje
-https://educacionadistancia.juntadeandalucia.es/centros/sevilla/pluginfile.php/673646/mod_resource/content/1/ud1.-%20Proteccio%CC%81n%20del%20medio%20ambiente.pdf
+#  Guía de cumplimiento RoHS: RoHSGuide.com
+# wikipedia https://es.wikipedia.org/wiki/Reciclaje
+# educaand https://educacionadistancia.juntadeandalucia.es/centros/sevilla/pluginfile.php/673646/mod_resource/content/1/ud1.-%20Proteccio%CC%81n%20del%20medio%20ambiente.pdf
 
 
 
 
-
+# autores
 
 
 
