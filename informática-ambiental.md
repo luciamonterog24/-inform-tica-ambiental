@@ -243,8 +243,8 @@ El manejo inadecuado de baterías y metales tóxicos genera riesgos adicionales.
 
 
 # autores
-
-
+# Lucia Montero Gonzalez https://github.com/luciamonterog24
+# Jose Murillo Rajo https://github.com/josemurillorajo/html
 
 
 
